@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <ApplicationIcon />
+    <Win32Resource></Win32Resource>
+    <StartupObject>DesignPatterns.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

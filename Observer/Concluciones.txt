@@ -1,0 +1,5 @@
+﻿
+El patrón de observador es una forma de manejar interacciones entre entidades de forma sencilla, 
+intuitiva y tambíen más eficiente porque no requiere que suscriptores revisen constantemente lo 
+que observan, si no que esperan a ser actualizados por el observable.
+-----------------------
